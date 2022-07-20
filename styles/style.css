@@ -41,10 +41,11 @@ Navigation part...
 }
 
 .nav-heading {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        align-content: flex-start;
 }
 
 .nav-headline h1 {
